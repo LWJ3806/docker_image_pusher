@@ -5,3 +5,4 @@ xhofe/alist:latest
 jeessy/ddns-go:latest
 containrrr/watchtower:latest
 haroldli/xiaoya-tvbox:latest
+xiaoyaliu/alist
