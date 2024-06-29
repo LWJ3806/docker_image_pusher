@@ -4,4 +4,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 jeessy/ddns-go:latest
 containrrr/watchtower:latest
- haroldli/xiaoya-tvbox:latest
+haroldli/xiaoya-tvbox:latest
