@@ -4,4 +4,3 @@ xhofe/alist:latest
 --platform=linux/arm/v7 xiaoyaliu/alist
 jeessy/ddns-go:latest
 containrrr/watchtower:latest
-haroldli/xiaoya-tvbox:latest
