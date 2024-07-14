@@ -5,4 +5,4 @@ xhofe/alist:latest
 jeessy/ddns-go:latest
 containrrr/watchtower:latest
 --platform=linux/arm64 haroldli/alist-tvbox:latest
-moelin/1panel:latest
+--platform=linux/arm64 moelin/1panel:latest
