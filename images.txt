@@ -6,3 +6,4 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm64 containrrr/watchtower:latest
 --platform=linux/arm64 haroldli/alist-tvbox:latest
 --platform=linux/arm64 moelin/1panel:latest
+--platform=linux/arm64 herberthe0229/iptv-sources
