@@ -7,3 +7,4 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm64 haroldli/alist-tvbox:latest
 --platform=linux/arm64 moelin/1panel:latest
 --platform=linux/arm64 youshandefeiyang/allinone:latest
+--platform=linux/arm64 waynezhang2022/doube-itv:latest
