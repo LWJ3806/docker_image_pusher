@@ -9,3 +9,4 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm64 youshandefeiyang/allinone:latest
 --platform=linux/arm64 doubebly/doube-ofiii:1.1.3
 --platform=linux/arm64 jiangrui1994/cloudsaver:latest
+--platform=linux/arm64 bestzwei/libretv:latest
