@@ -1,5 +1,5 @@
 --platform=linux/arm64 openlistteam/openlist:latest
---platform=linux/arm64 b3log/siyuan:latest
+--platform=linux/arm/v8 b3log/siyuan:latest
 --platform=linux/arm64 jeessy/ddns-go:latest
 --platform=linux/arm64 jiangrui1994/cloudsaver:latest
 --platform=linux/arm64 bestzwei/libretv:latest
